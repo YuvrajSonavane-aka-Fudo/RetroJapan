@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fudo &#8211; RetroJapan</title>
+	<atom:link href="/https://github.com/YuvrajSonavane-aka-Fudo/RetroJapan/author/fudo/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://github.com/YuvrajSonavane-aka-Fudo/RetroJapan</link>
+	<description>A place for Japan enthusiasts</description>
+	<lastBuildDate>Sun, 18 Jun 2023 15:30:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>What I do&#8230;</title>
+		<link>/https://github.com/YuvrajSonavane-aka-Fudo/RetroJapan/what-i-do/</link>
+					<comments>/https://github.com/YuvrajSonavane-aka-Fudo/RetroJapan/what-i-do/#respond</comments>
+		
+		<dc:creator><![CDATA[fudo]]></dc:creator>
+		<pubDate>Sun, 18 Jun 2023 14:52:06 +0000</pubDate>
+				<category><![CDATA[Music]]></category>
+		<guid isPermaLink="false">/https://github.com/YuvrajSonavane-aka-Fudo/RetroJapan/?p=91</guid>
+
+					<description><![CDATA[Hello , thanks for visiting my website. I am a private music producer who can make excellent mixes. The best song I have produced so far is Sun Zara, with my friend and great musician Gopal Khandare. I aspire to create more music and content like this in the future. If you wish to see &#8230;<p class="read-more"> <a class="" href="/https://github.com/YuvrajSonavane-aka-Fudo/RetroJapan/what-i-do/"> <span class="screen-reader-text">What I do&#8230;</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="91" class="elementor elementor-91">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-587d88b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="587d88b9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7744842d" data-id="7744842d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4aa66d40 elementor-widget elementor-widget-text-editor" data-id="4aa66d40" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.14.0 - 18-06-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
+<p>Hello , thanks for visiting my website. I am a private music producer who can make excellent mixes. The best song I have produced so far is Sun Zara, with my friend and great musician Gopal Khandare. I aspire to create more music and content like this in the future. If you wish to see a list of all the songs I have produced make sure to check out my work here&#8230;</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+		<div class="elementor-element elementor-element-b4df0e6 e-flex e-con-boxed e-con" data-id="b4df0e6" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-35c0c0d elementor-align-center elementor-widget elementor-widget-button" data-id="35c0c0d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="/https://github.com/YuvrajSonavane-aka-Fudo/RetroJapan/My%20workwp-admin/post.php?post=8#038;action=edit">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">My work</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/https://github.com/YuvrajSonavane-aka-Fudo/RetroJapan/what-i-do/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
